@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AUM-PATEL2624
+- 👋 Hi, I’m Aum Patel
 - 👀 I’m interested in Compitetive Programming and Cybersecurity
 - 📫 How to reach me :- aumpatelc36@gmail.com
 
